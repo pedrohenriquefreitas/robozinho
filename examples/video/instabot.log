@@ -1,0 +1,68 @@
+2019-02-08 22:49:23,318 Instabot Started
+2019-02-08 22:49:48,266 Logged-in successfully as '4259618036'!
+2019-02-08 22:49:48,268 Checking 02.mov
+2019-02-08 22:49:48,268 Uploading video `02.mov` with caption: `I'm the caption of #horizontal #mov #video that will be resized and cropped but not cut, with a mention to @maxdevblock`
+2019-02-08 22:49:49,533 Started uploading '/Users/pedrofreitas/projects/instabot/examples/video/media/02.mov'
+2019-02-08 22:49:49,534 [41mERROR...[0m
+2019-02-08 22:49:49,534 cannot unpack non-iterable bool object
+2019-02-08 22:49:49,770 Bot stopped. Worked: 0:00:26.452874
+2019-02-08 22:49:49,771 Total requests: 3
+2019-02-08 22:53:38,961 Instabot Started
+2019-02-08 22:53:41,555 Logged-in successfully as '4259618036'!
+2019-02-08 22:53:41,558 Checking snowq_falls.mov
+2019-02-08 22:54:23,341 Uploading video `snowq_falls.mov` with caption: `Missing the summer already! TBF why not?`
+2019-02-08 22:54:24,309 Started uploading '/Users/pedrofreitas/projects/instabot/examples/video/media/snowq_falls.mov'
+2019-02-08 22:54:24,441 [41mERROR...[0m
+2019-02-08 22:54:24,441 imageio.ffmpeg.download() has been deprecated. Use 'pip install imageio-ffmpeg' instead.'
+2019-02-08 22:54:24,666 Bot stopped. Worked: 0:05:01.348199
+2019-02-08 22:54:24,666 Total requests: 3
+2019-02-08 22:54:45,741 Instabot Started
+2019-02-08 22:54:48,612 Logged-in successfully as '4259618036'!
+2019-02-08 22:54:48,614 Checking snowq_falls.mov
+2019-02-08 22:54:55,885 Uploading video `snowq_falls.mov` with caption: `Missing the summer already! TBF why not?`
+2019-02-08 22:54:57,101 Started uploading '/Users/pedrofreitas/projects/instabot/examples/video/media/snowq_falls.mov'
+2019-02-08 22:54:57,225 [41mERROR...[0m
+2019-02-08 22:54:57,225 imageio.ffmpeg.download() has been deprecated. Use 'pip install imageio-ffmpeg' instead.'
+2019-02-08 22:54:57,563 Bot stopped. Worked: 0:05:34.245827
+2019-02-08 22:54:57,563 Total requests: 3
+2019-02-08 22:55:45,967 Instabot Started
+2019-02-08 22:55:48,066 Logged-in successfully as '4259618036'!
+2019-02-08 22:55:48,068 Checking snowq_falls.mov
+2019-02-08 22:55:50,092 Uploading video `snowq_falls.mov` with caption: `Missing the summer already! TBF why not?`
+2019-02-08 22:55:51,710 Started uploading '/Users/pedrofreitas/projects/instabot/examples/video/media/snowq_falls.mov'
+2019-02-08 22:55:51,839 [41mERROR...[0m
+2019-02-08 22:55:51,839 imageio.ffmpeg.download() has been deprecated. Use 'pip install imageio-ffmpeg' instead.'
+2019-02-08 22:55:52,114 Bot stopped. Worked: 0:06:28.796607
+2019-02-08 22:55:52,114 Total requests: 3
+2019-02-08 22:57:11,801 Instabot Started
+2019-02-08 22:57:14,320 Logged-in successfully as '4259618036'!
+2019-02-08 22:57:14,322 Checking snowq_falls.mov
+2019-02-08 22:57:23,205 Uploading video `snowq_falls.mov` with caption: `Missing the summer already! TBF why not?`
+2019-02-08 22:57:25,591 Started uploading '/Users/pedrofreitas/projects/instabot/examples/video/media/snowq_falls.mov'
+2019-02-08 22:57:25,920 [41mERROR...[0m
+2019-02-08 22:57:25,920 Unable to download 'ffmpeg-osx-v3.2.4'. Perhaps there is a no internet connection? If there is, please report this problem.
+2019-02-08 22:57:26,132 Bot stopped. Worked: 0:08:02.814630
+2019-02-08 22:57:26,132 Total requests: 3
+2019-02-08 23:09:12,190 Instabot Started
+2019-02-08 23:09:16,040 Logged-in successfully as '4259618036'!
+2019-02-08 23:09:16,042 Checking snowq_falls.mov
+2019-02-08 23:09:31,995 Uploading video `snowq_falls.mov` with caption: `TBF! Why not?`
+2019-02-08 23:09:35,377 Started uploading '/Users/pedrofreitas/projects/instabot/examples/video/media/snowq_falls.mov'
+2019-02-08 23:09:35,768 [41mERROR...[0m
+2019-02-08 23:09:35,768 Unable to download 'ffmpeg-osx-v3.2.4'. Perhaps there is a no internet connection? If there is, please report this problem.
+2019-02-08 23:09:35,979 Bot stopped. Worked: 0:20:12.662106
+2019-02-08 23:09:35,980 Total requests: 3
+2019-02-08 23:11:02,032 Instabot Started
+2019-02-08 23:11:04,811 Logged-in successfully as '4259618036'!
+2019-02-08 23:11:04,813 Checking snowq_falls.mov
+2019-02-08 23:11:13,927 Uploading video `snowq_falls.mov` with caption: `TBF! Why not?`
+2019-02-08 23:11:15,586 Started uploading '/Users/pedrofreitas/projects/instabot/examples/video/media/snowq_falls.mov'
+2019-02-08 23:11:53,675 Video '/Users/pedrofreitas/projects/instabot/examples/video/media/snowq_falls.mov' uploaded
+2019-02-08 23:11:53,675 Succesfully uploaded: snowq_falls.mov
+2019-02-08 23:11:53,888 Bot stopped. Worked: 0:22:30.570482
+2019-02-08 23:11:53,888 Total requests: 7
+2019-02-09 21:38:27,350 Instabot Started
+2019-02-09 21:38:31,708 Logged-in successfully as '4259618036'!
+2019-02-09 21:38:31,713 NO MORE VIDEO TO UPLOAD
+2019-02-09 21:38:32,068 Bot stopped. Worked: 22:49:08.751035
+2019-02-09 21:38:32,069 Total requests: 7

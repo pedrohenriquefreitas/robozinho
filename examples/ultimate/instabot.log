@@ -1,0 +1,14 @@
+2019-02-09 11:49:56,465 Instabot Started
+2019-02-09 11:50:35,501 Request returns 400 error!
+2019-02-09 11:50:35,502 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-02-09 11:50:35,502 Error type: bad_password
+2019-02-09 11:50:35,502 Username or password is incorrect.
+2019-02-09 11:50:35,506 Follow followers of: ohld
+2019-02-09 11:50:35,506 Not logged in!
+2019-02-09 11:50:52,106 Instabot Started
+2019-02-09 11:51:15,516 Logged-in successfully as '4259618036'!
+2019-02-09 11:51:15,517 Follow followers of: ohld
+2019-02-09 11:51:20,578 Going to follow 4018 users.
+2019-02-09 11:52:04,472 Bot stopped. Worked: 0:01:12.366274
+2019-02-09 11:52:04,472 Total follows: 2/350
+2019-02-09 11:52:04,473 Total requests: 50

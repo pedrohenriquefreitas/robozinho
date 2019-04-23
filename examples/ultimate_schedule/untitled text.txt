@@ -1,0 +1,25 @@
+cd /Users/pedrofreitas/Pictures/insta_pics
+
+
+for i in *.jpg
+do 
+	sips -s format jpeg $i --out $i
+done
+
+sips --resampleWidth 1080 -s dpiHeight 72 -s dpiWidth 72 *
+
+/usr/local/bin/exiftool -all= -tagsfromfile @ -Orientation *
+
+rm *_original
+
+
+
+
+
+
+
+  545  cp ../insta_pics/* .
+  546  exiftool -all= -tagsfromfile @ -Orientation  *
+  547  rm *_original
+  548  for i in *.jpg; do sips -s format jpeg $i --out $i;done
+  549  sips -z 1080 1080 *.jpg
